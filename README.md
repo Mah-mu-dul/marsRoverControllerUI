@@ -21,6 +21,12 @@ git clone https://github.com/wanna-be-pro/marsRoverControllerUI.git
 cd marsRoverControllerUI
 ```
 
+## Install required dependencies 
+
+```code
+npm i
+```
+
 2. Create a new branch with a descriptive name for your changes. For example, you can give your name , you can use:
 
 ```code
